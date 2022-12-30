@@ -6,10 +6,10 @@ Investigating the anonymized “COVID-19 Vaccine Search Insights” dataset whic
 
 ### 🧩 Data Visualization & Modeling
 
-Check `A1 - Code.ipynb`. To see different regions' search interest, you can toggle widgets embedded in the visualization.
+Check out [`A1 - Code.ipynb`](https://github.com/ChloeH88/covid-data-analysis/blob/main/A1%20-%20Code.ipynb). To see different regions' search interest, you can toggle widgets embedded in the visualization.
 
 ### 📝 Final Report
 
-Check `A1 - Report.pdf`
+Check out [my final report](https://github.com/ChloeH88/covid-data-analysis/blob/main/A1%20-%20Report.pdf) and [my source codes](https://github.com/ChloeH88/covid-data-analysis/blob/main/A1%20-%20Code.ipynb).
 
 Note: This is an assignment from course JSC270.
